@@ -1,5 +1,5 @@
 hA1
-hA2
+UserA chg hA2 to a2
 ha3
 hA4
 hA5
